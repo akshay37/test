@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><link rel="stylesheet" type="text\css" href="bootstrap\css\bootstrap.css">
+<script src="bootstrap\js\bootstrap.js"></script></head>
+<body>
+<div class="container">
+<style>
+h1{color:red;}
+#a{color:blue;}
+#pic{position=absolute;
+right:200;
+top200;}
+</style>
+<h1>Team Name</h1>
+<h2>Web Ops SuDo</h2>
+<a href="www.google.com">Go to P</a>
+TEAM MEMBERS
+<div class="row">
+<div class="col-md-6"><ul>
+<li id="a">Akshay</li>
+<li>Nishant</li>
+<li>Deepak Sai</li>
+</ul></div>
+<div class="col-md-6"><ol>
+<li id="a">Akshay</li>
+<li>Nishant</li>
+<li>Deepak Sai</li>
+</ol></div></div></div>
+<table class="table bodered"><tr>
+<th>Name</th>
+<th> Roll No.</th>
+<th> Skils</th>
+</tr><tr>
+<td>Akshay</td>
+<td> Ch13b091</td>
+<td> NA</td>
+</tr>
+<tr>
+<td>Nishanth</td>
+<td> Ch13b045</td>
+<td> NA</td>
+</tr>
+<tr>
+<td>Deepak</td>
+<td> Ch13b044</td>
+<td> NA</td>
+</tr>
+</table><div class="container">
+<div class="container-fluid">
+<input type="text" placeholder="Enter your Email">
+<input type="password" placeholder="Enter your password">
+<button>Save</button>
+<button>Cancel</button></div>
+<img id="pic" src="C:\Users\Public\Pictures\Sample Pictures\desert.jpg" >
+</div>
+</html>
